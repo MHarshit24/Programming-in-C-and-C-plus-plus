@@ -1,0 +1,1 @@
+g++ -Wall -o out Area.cpp Circle.cpp Rectangle.cpp Ring.cpp testvirtual.cpp

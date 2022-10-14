@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p19\main.cpp
+	<iostream>
+
+1606692307 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p19\testcomplex.cpp
+	<iostream>
+	"complex.h"
+
+1606694227 c:\users\denisa\desktop\programming in c and c++\practice sheet\p19\complex.h
+	<iostream>
+
+1606694219 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p19\complex.cpp
+	<iostream>
+	<math.h>
+	"complex.h"
+

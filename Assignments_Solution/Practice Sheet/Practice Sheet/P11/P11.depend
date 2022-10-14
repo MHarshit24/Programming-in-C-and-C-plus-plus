@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606335039 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

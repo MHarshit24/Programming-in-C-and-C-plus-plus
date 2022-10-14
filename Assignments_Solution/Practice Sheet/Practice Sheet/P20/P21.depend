@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606698728 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p21\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

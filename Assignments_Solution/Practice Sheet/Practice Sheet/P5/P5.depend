@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607367680 source:c:\users\denisa\desktop\programming in c and c++\practice sheet\p5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

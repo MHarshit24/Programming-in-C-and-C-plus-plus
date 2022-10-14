@@ -1,0 +1,1 @@
+c.setHunger(2);

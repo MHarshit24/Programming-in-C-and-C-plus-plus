@@ -1,0 +1,14 @@
+/*
+CH-230-A
+a10_p1.c
+Harshit Mutha
+h.mutha@jacobs-university.de
+*/
+a)
+It is mandatory to use the namespace because the computer needs to know the definition of the code of functionalities.
+For example, functionality such as, cout, endl, cin are used but they are not defined in the current scope, 
+so the computer needs to know where to check, so the using namespaces std must be included.
+
+b)
+I used the preffix because when you define a member function outside of its class, you need to qualify it with the 
+class name and scope resolution operator so the compiler knows that the definition belongs to the class.

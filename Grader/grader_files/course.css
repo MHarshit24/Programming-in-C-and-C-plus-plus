@@ -1,0 +1,264 @@
+td {
+	padding: 4px;
+}
+.about {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align:center;	
+}
+
+about_tag {	
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: 100;
+	font-variant: small-caps;
+}
+
+input {
+	background-color: #dddddd;
+}
+
+a:link {
+	color: #220077;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #666666;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+dt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: left;
+    font-style: italic;
+	padding-top: 10px;
+	padding-bottom: 3px;
+}
+
+.text {
+	font-size: 14px;
+	vertical-align: top;
+	padding: 4px;
+	padding-left: 10px;
+	background-color: #EFEFEF;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #111111;
+	padding: 6px;
+	text-align: center;
+	background-color: #FFDD44;
+}
+
+.menutext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #111111;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #FFDD44;
+
+}
+
+.menutext a:link, .menutext a:visited {
+	color: #ffffff;
+}
+
+.menutext a:hover {
+	color: #666666;
+	text-decoration: none;
+}
+
+.menuerror {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #ff0000;
+	font-size: 14px;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.bigmenutext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.bigmenutext a:link, .bigmenutext a:visited {
+	color: #ffffff;
+}
+
+.bigmenutext a:hover {
+	color: #666666;
+	text-decoration: none;
+}
+
+.signature {
+	  font-size: 8px;
+	  color: #999999;
+  	  text-decoration: none;
+	  padding-right: 10px;
+	  padding-bottom: 4px;
+	  text-align: right;
+}
+
+.lightred {
+	color: #990000;
+}
+.grey {
+	color: #cccccc;
+}
+.red {
+	color: #ff0000;
+}
+
+.bigred {
+	color: #FF3333; 
+	font-size: 16px;
+}
+
+.error {
+	color: #FF1111; 
+}
+
+.bigerror {
+	color: #FF1111; 
+	font-size: 16px;
+}
+
+.ok {
+	color: #009900;
+}
+.bgok {
+	background-color: #009900;
+}
+.smallok {
+	color: #009900;
+	font-size: 10px;
+}
+
+.info {
+	color: #00cc00;
+}
+
+.bginfo {
+	background-color: #00cc00;
+}
+
+.warn {
+	color: #ff8800;
+}
+
+.bgwarn {
+	background-color: #ff8800;
+}
+.smallwarn {
+	color: #ff8800;
+	font-size: 10px;
+}
+
+.list {
+	padding: 5px;
+	background-color: #eeeeee;
+}
+
+.slist {
+	padding: 2 2 2 5px;
+	background-color: #eeeeff;
+	font-size: 12px;
+}
+
+.ruler {
+	padding: 0px;
+	background-color: #aaaaaa;
+}
+
+
+.small {
+	  font-size: 10px;
+	  color: #333333;
+	  padding: 1px;
+  	  text-decoration: none;
+	  text-align: left;
+}
+
+.smallred {
+	  font-size: 10px;
+	  color: #CC3333;
+	  padding: 1px;
+  	  text-decoration: none;
+	  text-align: left;
+}
+.bold {
+    font-weight: bold;
+}
+
+/*
+ Syntaxhighlighting classes 
+*/
+div.hl-main {
+    margin-left: 0em;
+}
+.hl-prepro {
+    color: #804000;
+}
+.hl-identifier {
+    color: #804000;
+}
+.hl-inlinetags {
+    color: #888822;
+}
+.hl-brackets {
+    color: #007700;
+}
+.hl-quotes {
+    color: #00B000;
+}
+.hl-string, .hl-special {
+    color:#DD0000;
+    border: 1px solid #ccc;
+    font-weight: bold;
+}
+.hl-var, .hl-types {
+    color:#0000BB;
+}
+.hl-number {
+    color:#CC66CC;
+}
+.hl-reserved {
+    color:#007700;
+    font-weight: bold;
+    font-style: italic;
+}
+.hl-comment, .hl-mlcomment, .hl-inlinedoc {
+    color:#8888AA;
+    font-style: italic;
+}
+
+.asm {
+	font-size: 12px;
+}
+
+.smallasm {
+	font-size: 10px;
+}
+
+.asm-right {
+	font-size: 12px;
+	padding-right: 6px;
+	text-align: right;
+}
+

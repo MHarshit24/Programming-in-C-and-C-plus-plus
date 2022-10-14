@@ -1,0 +1,23 @@
+a)
+after removing using std namespace;
+The program threw several errors,
+All of them were scope errors, namely:
+    'string', 'cout', 'cin', 'endl', 'getline' was not declared in scope.
+
+This means that the above functions, streams and data-types
+belong to the std namespace and were no longer available after the change.
+
+I preppended 'std::' to each instance of the above 
+to explicity specify the scope of the same.
+
+
+
+b)
+in int Critter::getHunger()
+I had removed Critter:: and the error stated that
+'hunger' in Critter.cpp:19 was not declared in the scope.
+
+This means that the scope of the function no longer contains 
+the variables defined in the Critter class.
+
+The change was reverted.
